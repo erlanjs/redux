@@ -1,0 +1,101 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    font-family: "Roboto", "Helvetica", sans-serif;
+    background: #F3F3F3;
+
+}
+
+.logo img{
+    width: 100px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo a {
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+
+
+.header-con{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.a-act{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.74);
+}
+
+.vsego{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.54);
+    border-top: 1px solid rgba(0, 0, 0, 0.54);
+}
+
+.addcards{
+    width: 100%;
+    text-align: center;
+    padding: 20px 30px;
+    background: rgba(0, 0, 0, 0.95);
+    border: none;
+    border-radius: 50px;
+    color: #F3F3F3;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.addcards1{
+    width: 100%;
+    text-align: center;
+    padding: 20px 30px;
+    background: none;
+    border: 2px solid rgba(0, 0, 0, 0.95);
+    border-radius: 50px;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.addcards2{
+    width: 100%;
+    text-align: center;
+    padding: 20px 30px;
+    background: #dc3737;
+    border: none;
+    box-shadow: 0 0 10px #dc3737;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
